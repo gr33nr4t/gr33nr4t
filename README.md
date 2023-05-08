@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gr33nr4t a.k.a. Rorro - Rodrigo Gutiérrez
+- 👀 I’m interested in cyber security - red team
+- 🌱 I’m currently learning pentesting and web application security and testing on TCM and online academy
+- 💞️ I’m looking to collaborate on security for organizations working aside blue team, also I'll try to develop tools for Kali Linux that may help red ethical hackers in pentesting.
+- 📫 How to reach me: mail: th3gr33nr4t@gmail.com. twitter:[@th3gr33nrat](https://twitter.com/th3gr33nrat)
